@@ -15,10 +15,11 @@ This page explains how to delete your Chirastock account and data.
 
 If you have the app installed, you can delete your account as follows:
 
-<!-- TODO: For owner - please confirm the exact menu path -->
 1. Open the Chirastock app
 2. Go to Settings and select "Delete Account"
 3. Follow the on-screen instructions to complete the deletion
+
+When you delete your account from within the app, your account and data will be deleted immediately.
 
 ### 2. Request Deletion by Email
 
@@ -40,13 +41,12 @@ When you delete your account, the following information will be removed:
 - Notes you added
 - Images you uploaded
 
-<!-- TODO: For owner - please confirm how shared data is handled -->
 **Please note**: Data in groups shared with family members may remain accessible to other members. Please consult with group members regarding shared group data.
 
 ## Processing Time
 
-<!-- TODO: For owner - please confirm the exact processing time -->
-Account deletion requests will be processed within 30 days of receipt.
+- **In-app deletion**: Your account and data will be deleted immediately
+- **Email requests**: We will process your request promptly after confirming your identity (within 30 days at most)
 
 ## Contact
 
