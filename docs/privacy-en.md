@@ -69,7 +69,7 @@ You may:
 - Delete your personal information
 - Delete your account
 
-To exercise these rights, delete your account in Settings or contact us.
+To exercise these rights, delete your account in Settings or contact us. For details on account deletion, see the [Account Deletion page](./delete-account-en.html).
 
 ## 6. Photo library access
 
